@@ -1,0 +1,19 @@
+lumache.get\_random\_ingredients
+================================
+
+.. currentmodule:: lumache
+
+.. autoclass:: get_random_ingredients
+   :members:  
+   :show-inheritance:
+   :inherited-members:
+
+   
+   .. automethod:: __init__
+
+   
+   
+
+   
+   
+   

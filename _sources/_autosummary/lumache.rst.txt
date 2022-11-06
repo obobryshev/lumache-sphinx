@@ -1,0 +1,38 @@
+﻿lumache
+=======
+
+.. automodule:: lumache
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree: 
+      :template: custom-class-template.rst
+   
+      add
+      get_random_ingredients
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+   
+      InvalidKindError
+   
+   
+
+
+
