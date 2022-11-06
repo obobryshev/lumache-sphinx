@@ -7,4 +7,5 @@ creates recipes mixing random ingredients.
 Sub-chapter
 -----------
 
-Bla text
+https://obobryshev.github.io/lumache-sphinx/
+
